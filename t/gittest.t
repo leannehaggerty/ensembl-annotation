@@ -4,7 +4,7 @@ use perl;
 
 use Test::More;
 
-my $a = 23;
+my $a = 24;
 my $b = 4;
 
 is( $a, 24, "Test A" );
